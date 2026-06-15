@@ -1,4 +1,5 @@
-<img width="400" height="307" alt="myfirst" src="https://github.com/user-attachments/assets/fb5752eb-f8e8-4c2a-bb7a-46ac6476f9bb" />
+![Uploading myfirst.gif…]()
+
 
 # 🤖 Real-Time Hand Tracking & Finger Labeling AI
 
